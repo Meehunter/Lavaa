@@ -1,6 +1,6 @@
 #!/bin/bash
 
-RPC_URL="https://eth1.lava.build/lava-referer-8b51600b-b3cc-4893-89ec-5de41f0724db/"
+RPC_URL="https://eth1.lava.build/lava-referer-c006b262-dad2-4b32-bf41-ac61a3c1ac60/"
 
 OUTPUT_DIR="logs"
 
